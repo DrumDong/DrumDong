@@ -1,7 +1,11 @@
-### 🔭 Work 
-#### Researcher of KGU-KT Bigdata Center
+### 😄 Profile
 - Phone: 010-7542-9928
 - Email: rb9928@kgu-bigdata.com
+- LinkedIn: https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EA%B9%80-3410591b0/
+### 🔭 Work 
+#### Researcher of KGU-KT Bigdata Center
+- 최적 하수처리 송풍량 예측 모델 개발 프로젝트(2020년 9월 ~ 2020년 12월)
+- 사내 배달데이터 정기 분석리포트 작성(2020년 9월 ~ 2020년 10월)
 ---
 #### ⚡ 수상 경력
 - 2020 빅콘테스트 챔피언리그 우수상
