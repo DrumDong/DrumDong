@@ -1,4 +1,4 @@
-### Hi there 👋
+### Data Analyst
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DrumDong)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on KNU-KT Bigdata Center
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
