@@ -1,4 +1,7 @@
-### 🔭 Researcher of KGU-KT Bigdata Center
+### 🔭 Work 
+#### Researcher of KGU-KT Bigdata Center
+- Phone: 010-7542-9928
+- Email: rb9928@kgu-bigdata.com
 ---
 #### ⚡ 수상 경력
 - 2020 빅콘테스트 챔피언리그 우수상
