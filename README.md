@@ -4,7 +4,7 @@
 - LinkedIn: https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EA%B9%80-3410591b0/
 ### 🔭 Work 
 #### Researcher of KGU-KT Bigdata Center(2020.09~)
-- 최적 하수처리 송풍량 예측 모델 개발 프로젝트(2020.09 ~ 2020.12)
+- 하수처리 최적 송풍량 예측 모델 개발 프로젝트(2020.09 ~ 2020.12)
 - 사내 배달데이터  정기 분석리포트 작성(2020.09 ~ 2020.10)
 
 ### ⚡ Prize & Honor
