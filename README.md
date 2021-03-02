@@ -15,6 +15,9 @@
 - 동작구청 2020 빅데이터 활용 정책 아이디어 공모전 우수상 (2020.05)
 - Dacon 행동 데이터 분석 인공지능 AI 경진대회 7위 (2020.04)
 - 아시아경제 핀테크 데이터분석 모델링 경진대회 최우수상 (2019.12)
+
+### 📚 Book & Lecture
+
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DrumDong)](https://github.com/anuraghazra/github-readme-stats)
 
