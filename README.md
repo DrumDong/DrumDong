@@ -11,7 +11,7 @@
 - MIR4 한국 및 글로벌 서비스 BI 프로젝트(2021.06 ~ 2022.01)
 - Azure ADX 캐릭터 정보 추출 코드 자동화 개발(2021.09 ~ 2022.01)
 - MIR4 연동 플랫폼 크롤링 자동화 및 데이터 적재 ETL 코드 개발(2021.09 ~ 2022.01)
-#### Data Scientist of HyundaiCard(2022.01~)
+#### Data Scientist of Hyundai Card(2022.01~)
 
 ### ⚡ Prize & Honor
 - Dacon 공간정보 탐색적 데이터 분석 경진대회 3위(2020.12)
