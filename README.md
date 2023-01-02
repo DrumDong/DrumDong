@@ -2,7 +2,7 @@
 - Phone: 010-7542-9928
 - Email: rb9928@naver.com
 - LinkedIn: https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EA%B9%80-3410591b0/
-- Notion: https://www.notion.so/Blog-136c595c819a43138a846990ac48c8c0
+- Notion: --https://www.notion.so/Blog-136c595c819a43138a846990ac48c8c0--
 ### 🔭 Work 
 #### Researcher of KGU-KT Bigdata Center(2020.09~ 2020.01)
 - 하수처리 최적 송풍량 예측 모델 개발 프로젝트(2020.09 ~ 2020.12)
