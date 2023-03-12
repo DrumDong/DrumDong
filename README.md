@@ -1,6 +1,6 @@
 ### 😄 Profile
 - Phone: 010-7542-9928
-- Email: rb9928@naver.com , ehdrb9928@gmail.com
+- Email: rb9928@naver.com  ehdrb9928@gmail.com
 - LinkedIn: https://www.linkedin.com/in/%EB%8F%99%EA%B7%9C-%EA%B9%80-3410591b0/
 
 ### 🔭 Work 
